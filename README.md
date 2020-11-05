@@ -11,6 +11,8 @@ os.system('zsh')
 os.system('source .zshrc')
 ```
 
+> It seems that these awful two lines are mandatory. If you have a solution, do not forget to open an issue.
+
 The pyYAML module is required
 
 This project is licensed under the terms of the MIT license.

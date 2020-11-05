@@ -29,6 +29,8 @@ try:
     if my_option['notes'] != None:
         print("Notes: ", my_option['notes'])
     print("Working dir: {}".format(my_option['dir']))
+    if os.path.isfile('info.txt'):
+        os.system('cat info.txt')
     os.system('zsh')
     os.system('source .zshrc')
 except:

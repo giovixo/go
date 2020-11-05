@@ -30,5 +30,6 @@ try:
         print("Notes: ", my_option['notes'])
     print("Working dir: {}".format(my_option['dir']))
     os.system('zsh')
+    os.system('source .zshrc')
 except:
     print("Wrong option. To get the list of the options: 'python go.py list'")

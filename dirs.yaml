@@ -1,0 +1,9 @@
+# Options
+-   opt: ml
+    info: Moving to the ML hands on session...
+    notes: Do not forget to activate the python virtual env ("conda activate scikit-learn")
+    dir: /Users/giovanni/Desktop/Edu/Books/Hands-on ML with scikit-learn keras and tensorflow/CH 2 End-to-end ML project
+-   opt: home
+    info: Moving to the home directory...
+    notes: 
+    dir: /Users/giovanni/ 

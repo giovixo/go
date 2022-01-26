@@ -1,8 +1,28 @@
 # Options
+-   opt: sag
+    info: Moving to the SAG session...
+    notes: Do not forget to activate the python virtual env ("conda activate sag"). Manual setup export PYTHONPATH=$PYTHONPATH:/Users/giovanni/Documents/Works/CTA/ACADA/SAG/sagsci 
+    dir: /Users/giovanni/Documents/Works/CTA/ACADA/SAG
+-   opt: grb
+    info: Moving to the GRB session...
+    notes: 
+    dir: /Users/giovanni/Documents/Works/GRB    
 -   opt: ml
     info: Moving to the ML hands on session...
     notes: Do not forget to activate the python virtual env ("conda activate scikit-learn")
     dir: /Users/giovanni/Desktop/Edu/Books/Hands-on ML with scikit-learn keras and tensorflow/CH 2 End-to-end ML project
+-   opt: gammapy_trans
+    info: Moving to the gammapy transient simulation
+    notes: Do not forget to activate the python virtual env ("conda activate gammapy-0.17")
+    dir: /Users/giovanni/Works/CTA/gammapy_trans
+-   opt: python
+    info: Moving to python Developer in 2021 Zero to Mastery
+    notes:
+    dir: /Users/giovanni/Desktop/Edu/Udemy/Python_dev_2021_zero_to_mastery
+-   opt: stability
+    info: Moving to stability paper revision ...
+    notes: main revision requested
+    dir: /Users/giovanni/Desktop/Decesare_ApSS_submitted/Request_of_revision_dec2020
 -   opt: home
     info: Moving to the home directory...
     notes: 

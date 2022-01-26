@@ -2,7 +2,7 @@ import sys
 import os
 import yaml
 
-with open("/Users/giovanni/Software/scripts/go/dirs.yaml", 'r') as stream:
+with open("/Users/giovanni/sw/scripts/dirs.yaml", 'r') as stream:
     try:
         options = yaml.safe_load(stream)
     except yaml.YAMLError as exc:

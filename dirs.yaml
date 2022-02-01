@@ -1,7 +1,7 @@
 # Options
 -   opt: sag
     info: Moving to the SAG session...
-    notes: Do not forget to activate the python virtual env ("conda activate sag"). Manual setup export PYTHONPATH=$PYTHONPATH:/Users/giovanni/Documents/Works/CTA/ACADA/SAG/sagsci 
+    notes: Do not forget to activate the python virtual env ("conda activate sag"). Manual setup export PYTHONPATH=$PYTHONPATH:/Users/giovanni/Documents/Works/CTA/ACADA/SAG/sagsci export SAGSCI=/Users/giovanni/Documents/Works/CTA/ACADA/SAG/sagsci  
     dir: /Users/giovanni/Documents/Works/CTA/ACADA/SAG
 -   opt: grb
     info: Moving to the GRB session...
@@ -19,6 +19,10 @@
     info: Moving to python Developer in 2021 Zero to Mastery
     notes:
     dir: /Users/giovanni/Desktop/Edu/Udemy/Python_dev_2021_zero_to_mastery
+-   opt: web2.0
+    info: Moving to The complete web developer course
+    notes:
+    dir: /Users/giovanni/Desktop/Edu/Udemy/The_complete_web_developer_Course_2.0
 -   opt: stability
     info: Moving to stability paper revision ...
     notes: main revision requested

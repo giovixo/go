@@ -31,7 +31,8 @@ try:
     print("Working dir: {}".format(my_option['dir']))
     if os.path.isfile('info.txt'):
         os.system('cat info.txt')
-    os.system('zsh')
-    os.system('source .zshrc')
+    # os.system('zsh')
+    # os.system('source .zshrc')
+    os.system('open -a Terminal .')
 except:
     print("Wrong option. To get the list of the options: 'python go.py list'")
